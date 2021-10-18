@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<!-- Basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>LİMON ÇİÇEĞİ CAMPİNG</title>
+
+	<meta name="keywords" content="Muğla kamp alanları iletişim" />
+	<meta name="description" content="Limon Çiçeği Camping iletişim">
+	<meta name="author" content="Fethiye kamp alanları iletişim">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light"
+		rel="stylesheet" type="text/css">
+
+	
+	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+	<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+	
+	<link rel="stylesheet" href="css/theme.css">
+	<link rel="stylesheet" href="css/theme-elements.css">
+	<link rel="stylesheet" href="css/theme-blog.css">
+	<link rel="stylesheet" href="css/theme-shop.css">
+	<link rel="stylesheet" href="css/theme-animate.css">
+
+	
+	<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
+	<link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
+	<link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
+
+	
+	<link rel="stylesheet" href="css/skins/skin-law-firm.css">
+
+	
+	<link rel="stylesheet" href="css/demos/demo-law-firm.css">
+
+	
+	<link rel="stylesheet" href="css/custom.css">
+
+	
+	<script src="vendor/modernizr/modernizr.min.js"></script>
+	
+	
+
+</head>
+
+<body>
+
+	<div class="body">
+		<header id="header" class="header-no-border-bottom"
+			data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 115, "stickySetTop": "-115px", "stickyChangeLogo": false}'>
+			<div class="header-body">
+				<div class="header-container container">
+					<div class="header-row">
+						<div class="header-column">
+							<div class="header-logo">
+								<a href="index.html">
+									<h1 style="font-family: emoji; text-shadow:3px 3px 5px #605a5a;">LİMON ÇİÇEĞİ
+										CAMPİNG</h1>
+								</a>
+							</div>
+						</div>
+						<div class="header-column">
+							<ul class="header-extra-info">
+
+								<li class="hidden-xs">
+									<div class="feature-box feature-box-mail feature-box-style-2">
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="header-container header-nav header-nav-bar header-nav-bar-primary">
+					<div class="container">
+						<button class="btn header-btn-collapse-nav" data-toggle="collapse"
+							data-target=".header-nav-main">
+							Menu <i class="fa fa-bars"></i>
+						</button>
+						<div
+							class="header-nav-main header-nav-main-light header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
+							<nav>
+								<ul class="nav nav-pills" id="mainNav" style="font-family: emoji;">
+									<li>
+										<a href="index.html">
+											ANASAYFA
+										</a>
+									</li>
+									<li>
+										<a href="bungalov.html">
+											KİRALIK EVLERİMİZ
+										</a>
+									</li>
+									<li>
+										<a href="camp.html">
+											ÇADIR ALANLARIMIZ
+										</a>
+									</li>
+									<li>
+										<a href="index.html#bizkimiz">
+											BİZ KİMİZ ?
+										</a>
+									</li>
+									<li class="active">
+										<a href="iletişim.html">
+											BİZE ULAŞIN
+										</a>
+									</li>
+
+								</ul>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div >
+			<div class="container" style="padding-top: 5%;">
+				<div class="row">
+					<div class="col-12">
+						<h1 class="mt-xl mb-none"
+							style="font-family: emoji; text-shadow:5px 5px 5px #605a5a; text-align: center;">İLETİŞİM
+						</h1>
+						<div class="divider divider-primary divider-small divider-small-center mb-xl">
+							<hr style="width: 50%;">
+						</div>
+						<p class="lead mb-xl mt-lg" style="text-align: center; padding-top: 5%;">Rezervasyon veya merak ettiğiniz herşey
+							için bize ulaşabilirsiniz.</p>
+
+
+
+						<h4 class="mt-xl mb-none" style="text-align: center; padding-top: 10%;font-family: emoji; text-shadow:5px 5px 5px #605a5a;
+						 text-align: center;">İLETİŞİM BİLGİLERİMİZ</h4>
+						<div class="divider divider-primary divider-small divider-small-center mb-xl">
+							<hr style="width: 30%;">
+						</div>
+						<div class="row" style="margin-top: 5%;">
+							<ul class="list list-icons list-icons-style-3 mt-xlg mb-xlg" style="text-align: center;">
+								<div class="col-md-4"></div>
+								<div class="col-md-4">
+									<li><i class="fa fa-map-marker"></i> <strong>Addres:</strong>Yanıklar Mahallesi Mezargedigi Mevkii Zeytinbahçe Sokak NO :
+										 11 Fethiye/Muğla</li>
+									<li><i class="fa fa-phone"></i> <strong>Telefon Numarası:</strong> +90 (553) 111 48 75</li>
+									<li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a
+											href="mailto:mail@example.com">ali_olpk@icloud.com </a></li>
+								</div>
+								
+
+							</ul>
+							<div class="col-md-4"></div>
+						</div>
+						<div class="row" style="text-align: center;;">
+							<h4 class="pt-xl mb-none" style="margin-top: 10%;font-family: emoji; text-shadow:5px 5px 5px #605a5a; text-align: center;" >SOSYAL MEDYALARIMIZ</h4>
+							<div class="divider divider-primary divider-small divider-small-center mb-xl">
+								<hr style="width: 30%;">
+							</div>
+
+							<div class="col-md-4"></div>
+							<div class="col-md-4">
+								<ul class="list list-icons list-dark mt-xlg" style="margin-top: 5%;">
+									<li><i class="fa fa-instagram" style="color: purple; font-size: 24px; "></i><a target="_blank" href="https://www.instagram.com/limoncicegikamp/"> <strong>İNSTAGRAM  </strong><a> </li>
+								</ul>
+							</div>
+							<div class="col-md-4"></div>
+						
+						</div>
+
+						<div class="row" style="text-align: center;">
+							<h4 class="pt-xl mb-none" style="margin-top: 10%;font-family: emoji; text-shadow:5px 5px 5px #605a5a; text-align: center;" >ÇALIŞMA SAATLERİMİZ</h4>
+							<div class="divider divider-primary divider-small divider-small-center mb-xl">
+								<hr style="width: 30%;">
+							</div>
+
+							<div class="col-md-4"></div>
+							<div class="col-md-4">
+								<ul class="list list-icons list-dark mt-xlg" style="margin-top: 5%;">
+									<li style="color: black;"><i class="fa fa-clock-o"></i> <strong>Pazartesi - Cuma : </strong>  9.00 - 17.00</li>
+									<li style="color: black;"><i class="fa fa-clock-o"></i> <strong>Cumartesi : </strong>  9.00 - 14.00</li>
+									<li style="color: black;"><i class="fa fa-clock-o"></i> <strong>Pazar : </strong>  KAPALI</li>
+								</ul>
+							</div>
+							<div class="col-md-4"></div>
+						
+						</div>
+						
+						
+					</div>
+					
+				</div>
+			</div>
+
+			
+		</div>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d667.6714951513411!2d29.05546646806942!3d36.
+		698217227412364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1620296588153!5m2!1str!2str" 
+		width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>            </div>
+
+
+		<footer class="short" id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<a href="index.html" class="logo mb-md">
+							<h1 style="font-family: emoji; text-shadow:5px 5px 5px #605a5a;">LİMON ÇİÇEĞİ CAMPİNG</h1>
+						</a>
+						<h4>BURADA NE BULACAKSINIZ?</h4>
+							<p>Huzurlu , sessiz , sakin , güven içerisinde geçireceğiniz bol güneşli günler sizi bekliyor. Hadi hep beraber gecelere ateş yakarak ışık saçalım.</p>
+					</div>
+					<div class="col-md-3 col-md-offset-1">
+						<h5 class="mb-sm">Limon Çiçeği Camping</h5>
+						<ul class="list list-icons mt-xl">
+							<li><i class="fa fa-map-marker"></i> <strong>Adres:</strong>Yanıklar Mahallesi Mezargedigi
+								Mevkii Zeytinbahçe Sokak NO : 11 Fethiye/Muğla</li>
+							<li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a
+									href="mailto:mail@example.com">ali_olpk@icloud.com</a></li>
+						</ul>
+					</div>
+					<div class="col-md-3">
+						<h5 class="mb-sm">İletişim</h5>
+						<span class="phone">+90 (553) 111 48 75</span>
+						<ul class="social-icons mt-lg">
+							<li class="social-icons-facebook"><a href="https://www.instagram.com/limoncicegikamp/"
+									target="_blank" title="Facebook"><i class="fa fa-instagram"></i></a></li>
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+
+		</footer>
+	</div>
+
+	<!-- Vendor -->
+	<script src="vendor/jquery/jquery.min.js"></script>
+	<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+	<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+	<script src="vendor/jquery-cookie/jquery-cookie.min.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="vendor/common/common.min.js"></script>
+	<script src="vendor/jquery.validation/jquery.validation.min.js"></script>
+	<script src="vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
+	<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+	<script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+	<script src="vendor/isotope/jquery.isotope.min.js"></script>
+	<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+	<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+	<script src="vendor/vide/vide.min.js"></script>
+
+	<!-- Theme Base, Components and Settings -->
+	<script src="js/theme.js"></script>
+
+	<!-- Current Page Vendor and Views -->
+	<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+	<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+	<!-- Current Page Vendor and Views -->
+	<script src="js/views/view.contact.js"></script>
+
+	<!-- Demo -->
+	<script src="js/demos/demo-law-firm.js"></script>
+
+	<!-- Theme Custom -->
+	<script src="js/custom.js"></script>
+
+	<!-- Theme Initialization Files -->
+	<script src="js/theme.init.js"></script>
+
+
+
+
+
+
+
+</body>
+
+</html>
